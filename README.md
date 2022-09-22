@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Screen 1](./screenshot1.jpg)
+![Screen 1](./screenshot1.jepg)
 ![Screen 2](./screenshot2.jpg)
 ![Screen 3](./screenshot3.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-faq-accordion-card)
-- Live Site URL: [Live site URL here](https://fm-faq-accordion-card-eosin.vercel.app/)
+- Solution URL: [Solution URL here](https://fm-advice-generator-app-main-juwt.vercel.app/)
+- Live Site URL: [Live site URL here](https://fm-advice-generator-app-main-juwt.vercel.app/)
 
 ## My process
 
