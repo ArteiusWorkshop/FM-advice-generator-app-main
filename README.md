@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screen 1](./screenshot1.jepg)
+![Screen 1](./screenshot1.jpeg)
 ![Screen 2](./screenshot2.jpg)
 ![Screen 3](./screenshot3.jpg)
 
